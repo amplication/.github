@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/company/amplication/" alt="linkedin"><img src="https://img.shields.io/badge/linkedin-@amplication--linkedin-9cf.svg" alt="linkedin"></img></a>
 <a href="https://twitter.com/amplication" alt="twitter"><img src="https://img.shields.io/badge/twitter-@amplication--twitter-yellow.svg" alt="twitter"></img></a>
 </p>
-<a href="https://discord.com/invite/Z2CG3rUFnu" alt="discord"><img src="https://img.shields.io/badge/discord-@amplication--discord-red.svg" alt="discord"></img></a>
+<a href="https://discord.com/invite/Z2CG3rUFnu" alt="discord"><img src="https://img.shields.io/badge/discord-@amplication--discord-red.svg" alt="discord"></img><a>
 </p>
 
 [Amplication](https://amplication.com/) is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
