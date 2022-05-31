@@ -10,17 +10,17 @@ Amplication governs its participants according to the Contributor [Code of Condu
 
 ## FAQ and General Questions
 
-If your question concerns the code of a project, then you should create a [new issue] in the relevant project's repository.
+If your question concerns the code of a project, then you should create a [new issue](https://github.com/amplication/amplication/issues/new/choose) in the relevant project's repository.
 
-You can also join amplication chat channel on discord and then ask your question(s) in the relevant channel of our [Discord](https://discord.com/invite/Z2CG3rUFnu.
+You can also join the Amplication server on [Discord]( https://amplication.com/discord) and then ask your question(s) in the relevant channel.
 
-You can also checkout our [documentation](https://docs.amplication.com/docs/) for better understanding of amplication projects.
+You can also check out our [documentation](https://docs.amplication.com/docs/) for a better understanding of Amplication.
 
 ## How to Contribute Code?
 
 Bug fixes, performance improvements, code formatting, ...
 There are a lot ways in which you can contribute code!
-The issues list of a project is a great place to find something that you can help us with.
+The [issues](https://github.com/amplication/amplication/issues/) list of a project is a great place to find something that you can help us with.
 
 To increase the chances of your code getting merged, please ensure that:
 * Your pull request:

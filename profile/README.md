@@ -29,7 +29,7 @@ For reporting bugs, requesting features, and discussing changes, developers shou
 ### Community driven development
 
 We love to build ❤ our product in open source.
- - At [Amplication](https://amplication.com/), Join us so we can make Amplication more robust and more inclusive.
+- At [GitHub](https://github.com/amplication), join us so we can make Amplication more robust and more inclusive.
 
 ### 👓 Appendix
 
