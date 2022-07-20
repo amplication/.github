@@ -1,6 +1,6 @@
 ## Hey, it's 👋 Amplication here!
 
-![Amplication](https://pbs.twimg.com/profile_banners/1294979453005770753/1656831372/1500x500)
+![Amplication](https://user-images.githubusercontent.com/53312820/179914535-6617eec2-e305-4a8b-8063-db3bdf0f427c.png)
 
 An Open‑source dev tool. It helps you develop quality Node.js apps without spending time on repetitive coding tasks.
 
