@@ -1,4 +1,4 @@
-# Welcome to Open Amplication 👋
+# Welcome to Amplication 👋
 <p align="center">
   <a href="https://amplication.com" target="_blank">
     <img alt="amplication-logo" height="70" alt="Amplication Logo" src="https://amplication.com/images/amplication-logo-purple.svg"/>
@@ -15,7 +15,7 @@
 
 [Amplication](https://amplication.com/) is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 
-### 🏂 Haven't tried Open Horizon yet?
+### 🏂 Haven't tried Amplication yet?
 Here are some steps to learn and use the Amplication services.
 
 - [Amplication](https://github.com/amplication/amplication) is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
