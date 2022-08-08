@@ -39,4 +39,3 @@ We love to build ❤ our product in open source.
 - [Carrers](https://amplication.breezy.hr/)
 - [Blog](https://amplication.com/blog)
 - [Code of Conduct](https://github.com/amplication/amplication/blob/master/code_of_conduct.md)
-
