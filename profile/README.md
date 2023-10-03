@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <i align="center"> Amplication is a robust, open-source development platform crafted to revolutionize the creation of scalable and secure Node.js applications. We eliminate repetitive coding tasks and deliver production-ready infrastructure code, meticulously tailored to your specifications and adhering to industry best practices. 🚀</i>
+  <i> Amplication is a robust, open-source development platform crafted to revolutionize the creation of scalable and secure Node.js applications. We eliminate repetitive coding tasks and deliver production-ready infrastructure code, meticulously tailored to your specifications and adhering to industry best practices. 🚀</i>
 </p>
 
 <h4 align="center">
@@ -20,10 +20,13 @@
 
 ---
 
+💻 Start generating applications instantly on our [hosted solution](https://app.amplication.com)
 
-- [Documentation](https://docs.amplication.com/docs/)
-- [Features](https://amplication.com/features)
-- [Getting Involved with Community](https://amplication.com/community)
-- [Careers](https://amplication.breezy.hr/)
-- [Blog](https://amplication.com/blog)
-- [Code of Conduct](https://github.com/amplication/amplication/blob/master/code_of_conduct.md)
+📚 Learn how to use Amplication by reading the [documentation](https://docs.amplication.com/docs)
+
+⭐ Star our main [GitHub repository](https://github.com/amplication/amplication)
+
+🤵 Want to join our team, look at the [open positions](https://amplication.breezy.hr)
+
+⌨️ Start contribution by reading our [code of conduct](https://github.com/amplication/amplication/blob/master/CODE_OF_CONDUCT.md)
+
