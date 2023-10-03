@@ -30,7 +30,7 @@
 </p>
 
 
-[Amplication](https://amplication.com/) is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
+[`Amplication`](https://amplication.com/) is a robust, open-source development platform crafted to revolutionize the creation of scalable and secure Node.js applications. We eliminate repetitive coding tasks and deliver production-ready infrastructure code, meticulously tailored to your specifications and adhering to industry best practices.
 
 ### 🏂 Haven't tried Amplication yet?
 Here are some steps to learn and use the Amplication services.
