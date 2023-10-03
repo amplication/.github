@@ -1,14 +1,18 @@
-<br/>
+<h3 align="center">
+    <a href="https://amplication.com/#gh-light-mode-only">
+    <img src="https://github.com/amplication/amplication/blob/master/.github/assets/amplication-logo-dark-mode.svg">
+    </a>
+    <a href="https://amplication.com/#gh-dark-mode-only">
+    <img src="https://github.com/amplication/amplication/blob/master/.github/assets/amplication-logo-dark-mode.svg">
+    </a>
+</h3>
+
 <p align="center">
-  <a href="https://amplication.com" target="_blank"><img src="/profile/banner.png" alt="Amplication Banner"></a>
-  <br/>
-  <b> 
-  Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
-  </b>
+  <i align="center">Instantly generate production-ready Node.js backend apps 🚀</i>
 </p>
 
-
 <h4 align="center">
+  <br>
   <a href="https://amplication.com/discord">
     <img src="https://img.shields.io/badge/discord-7289da.svg?style=flat-square" alt="discord">
   </a>
@@ -19,6 +23,11 @@
     <img src="https://img.shields.io/badge/youtube-d95652.svg?style=flat-square&" alt="youtube">
   </a>
 </h4>
+
+<p align="center">
+    <img src="https://github.com/amplication/amplication/assets/73097785/c7ed2bbc-8954-46a1-a520-91a4711a9320.png" alt="dashboard"/>
+</p>
+
 
 [Amplication](https://amplication.com/) is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 
