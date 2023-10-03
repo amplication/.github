@@ -26,7 +26,7 @@
 </h4>
 
 <p align="center">
-    <img src="https://github.com/amplication/amplication/assets/73097785/c7ed2bbc-8954-46a1-a520-91a4711a9320.png" alt="dashboard"/>
+    <img src="banner.png" alt="dashboard"/>
 </p>
 
 
