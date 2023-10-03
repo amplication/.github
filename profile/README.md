@@ -38,4 +38,4 @@ We love to build ❤ our product in open source.
 - [Getting Involved with Community](https://amplication.com/community)
 - [Careers](https://amplication.breezy.hr/)
 - [Blog](https://amplication.com/blog)
-- [Code of Conduct](https://github.com/amplication/amplication/blob/master/code_of_conduct.md)
+- [Code of Conduct](https://github.com/amplication/amplication/blob/master/CODE_OF_CONDUCT.md)
