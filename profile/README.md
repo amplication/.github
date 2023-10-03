@@ -22,9 +22,9 @@
 
 💻 Start generating applications instantly on our [hosted solution](https://app.amplication.com)
 
-📚 Learn how to use Amplication by reading the [documentation](https://docs.amplication.com/docs)
+📚 Learn how to use Amplication by checking out the [website](https://amplication.com) or reading the [documentation](https://docs.amplication.com/docs)
 
-⭐ Star our main [GitHub repository](https://github.com/amplication/amplication)
+⭐ Star us on [GitHub](https://github.com/amplication/amplication)
 
 🤵 Want to join our team, look at the [open positions](https://amplication.breezy.hr)
 
