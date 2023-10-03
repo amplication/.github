@@ -30,3 +30,5 @@
 
 ⌨️ Start contribution by reading our [code of conduct](https://github.com/amplication/amplication/blob/master/CODE_OF_CONDUCT.md)
 
+📄 Read our technical [blogs](https://amplication.com/blog)
+
