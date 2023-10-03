@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <i align="center">Instantly generate production-ready Node.js backend apps 🚀</i>
+  <i align="center">Open-source backend development platform. Build production-ready services without wasting time on repetitive coding. 🚀</i>
 </p>
 
 <h4 align="center">
