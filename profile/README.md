@@ -7,12 +7,13 @@
     </a>
 </h3>
 
+---
+
 <p align="center">
   <i align="center">Instantly generate production-ready Node.js backend apps 🚀</i>
 </p>
 
 <h4 align="center">
-  <br>
   <a href="https://amplication.com/discord">
     <img src="https://img.shields.io/badge/discord-7289da.svg?style=flat-square" alt="discord">
   </a>
