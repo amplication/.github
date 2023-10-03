@@ -1,17 +1,24 @@
-# Welcome to Amplication 👋
+<br/>
 <p align="center">
-  <a href="https://amplication.com" target="_blank">
-    <img alt="amplication-logo" height="70" alt="Amplication Logo" src="https://amplication.com/images/amplication-logo-purple.svg"/>
+  <a href="https://amplication.com" target="_blank"><img src="/profile/banner.png" alt="Amplication Banner"></a>
+  <br/>
+  <b> 
+  Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
+  </b>
+</p>
+
+
+<h4 align="center">
+  <a href="https://amplication.com/discord">
+    <img src="https://img.shields.io/badge/discord-7289da.svg?style=flat-square" alt="discord">
   </a>
-</p>
-
-<p align="center">
-<a href="https://github.com/amplication/amplication" alt="github"><img src="https://img.shields.io/badge/github-@amplication--github-green.svg" alt="github"></img></a>
-<a href="https://www.linkedin.com/company/amplication/" alt="linkedin"><img src="https://img.shields.io/badge/linkedin-@amplication--linkedin-9cf.svg" alt="linkedin"></img></a>
-<a href="https://twitter.com/amplication" alt="twitter"><img src="https://img.shields.io/badge/twitter-@amplication--twitter-yellow.svg" alt="twitter"></img></a>
-<a href="https://discord.com/invite/Z2CG3rUFnu" alt="discord"><img src="https://img.shields.io/badge/discord-@amplication--discord-red.svg" alt="discord"></img><a>
-
-</p>
+  <a href="https://twitter.com/amplication">
+    <img src="https://img.shields.io/badge/twitter-18a1d6.svg?style=flat-square" alt="twitter">
+  </a>
+  <a href="https://www.youtube.com/c/Amplicationcom">
+    <img src="https://img.shields.io/badge/youtube-d95652.svg?style=flat-square&" alt="youtube">
+  </a>
+</h4>
 
 [Amplication](https://amplication.com/) is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 
