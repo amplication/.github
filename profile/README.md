@@ -22,13 +22,13 @@
 
 💻 Start generating applications instantly on our [hosted solution](https://app.amplication.com)
 
-📚 Learn how to use Amplication by checking out the [website](https://amplication.com) or reading the [documentation](https://docs.amplication.com/docs)
+📚 Learn how to use Amplication by checking out the [website](https://amplication.com) or reading the [documentation](https://docs.amplication.com)
 
 ⭐ Star us on [GitHub](https://github.com/amplication/amplication)
 
 🤵 Want to join our team, look at the [open positions](https://amplication.breezy.hr)
 
-⌨️ Start contribution by reading our [code of conduct](https://github.com/amplication/amplication/blob/master/CODE_OF_CONDUCT.md)
+⌨️ Start contribution by reading our [code of conduct](https://github.com/amplication/amplication/blob/master/CODE_OF_CONDUCT.md) and our [contribution guidelines](https://github.com/amplication/amplication/blob/master/CONTRIBUTING.md)
 
 📄 Read our technical [blogs](https://amplication.com/blog)
 
