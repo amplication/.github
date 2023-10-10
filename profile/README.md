@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="banner.png" alt="dashboard"/>
+    <img src="https://github.com/amplication/.github/assets/73097785/d18a1b07-c703-4762-9b09-61e743f62abb" alt="dashboard"/>
 </p>
 
 <p align="center">
