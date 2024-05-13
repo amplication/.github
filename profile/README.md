@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <i> Amplication is a robust, open-source development platform crafted to revolutionize the creation of scalable and secure Node.js applications. We eliminate repetitive coding tasks and deliver production-ready infrastructure code, meticulously tailored to your specifications and adhering to industry best practices. 🚀</i>
+  <i> Amplication is a robust, open-source development platform crafted to revolutionize the creation of scalable and secure Node.js and .NET applications. We eliminate repetitive coding tasks and deliver production-ready infrastructure code, meticulously tailored to your specifications and adhering to industry best practices. 🚀</i>
 </p>
 
 <h4 align="center">
