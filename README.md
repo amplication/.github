@@ -8,7 +8,7 @@
 
 # About Amplication
 
-[Amplication](https://amplication.com/) is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
+[Amplication](https://amplication.com/) is an open-source development tool. It helps you develop quality .NET and Node.js applications without spending time on repetitive coding tasks.
 
 <p style="clear:both;">
 <h1><a name="contributing"></a><a name="community"></a> <a href="https://amplication.com/community">Community</a> and <a href="https://github.com/amplication/amplication/blob/master/CONTRIBUTING.md">Contributions</a></h1>
